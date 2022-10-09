@@ -1,0 +1,20 @@
+.homeReadBtn {
+  margin-top: 0.5rem;
+  text-align: right;
+}
+
+.homePara {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  margin-top: 3rem;
+  line-height: 1.5rem;
+}
+
+.incAndDecBtn {
+  padding: 0.5rem 1.3rem;
+  border: none;
+  background-color: rgb(42, 116, 165);
+  color: #fff;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+}
